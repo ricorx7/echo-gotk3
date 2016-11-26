@@ -19,6 +19,8 @@ _cgo_export.*
 
 _testmain.go
 
+echo-gotk3
+
 *.exe
 *.test
 *.prof
